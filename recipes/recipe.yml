@@ -26,6 +26,8 @@ modules:
        - zsh
        - wofi
        - hyprland
+       - hyprlock
+       - hypridle
        - swayfx
        - aylurs-gtk-shell
        - grim
