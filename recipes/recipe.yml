@@ -28,7 +28,7 @@ modules:
        - hyprland
        - hyprlock
        - hypridle
-       - hyprswitch
+       #- hyprswitch
        - swayfx
        - aylurs-gtk-shell
        - grim
